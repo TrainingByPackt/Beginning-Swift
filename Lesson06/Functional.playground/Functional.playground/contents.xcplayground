@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Methods'/>
+        <page name='Exercise – filter'/>
+        <page name='Exercise – map'/>
+        <page name='Exercise – flatMap'/>
+        <page name='Exercise – reduce'/>
+        <page name='Lazy sequences'/>
+        <page name='Sequence internals'/>
+        <page name='Lazy operations'/>
+    </pages>
+</playground>
